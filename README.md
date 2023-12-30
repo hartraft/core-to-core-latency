@@ -24,6 +24,8 @@ Single socket results
 
 CPU                                                                            | Median Latency
 -------------------------------------------------------------------------------| ------------------
+Rockchip RK3399 (2 * A72, 4 * A53)| 176.6ns
+Rockchip RK3588 (4 * A76, 4 * A55)| 0.5ns
 AMD Ryzen 9 7950X, 16 Cores, zen4, 2022-Q3                                     | 68ns
 AMD EPYC 7773X, 64 Cores, Milan-X, 2022-Q1                                     | 115ns
 Intel Xeon Gold 6242, 16 Cores, Cascade Lake, 2019-Q2                          | 48ns
